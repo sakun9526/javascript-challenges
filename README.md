@@ -14,3 +14,7 @@ This repository has the solutions for the JS challenges
 3. Write a JavaScript program to get the current date.
 
 - mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy, dd/mm/yyyy
+
+4. Write a JavaScript program to rotate the string 'w3resource' in right direction by periodically removing one letter from the end of the string and attaching it to the front.
+
+5. Write a JavaScript program to determine whether a given year is a leap year
